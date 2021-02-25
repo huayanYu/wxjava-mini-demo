@@ -1,0 +1,9 @@
+spring:
+  redis:
+    host: localhost
+
+wx:
+  miniapp:
+    appid: wx30be11111111
+    secret: 1241241252512
+    msg-data-format: JSON
